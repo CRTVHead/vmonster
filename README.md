@@ -1,5 +1,7 @@
 # Vpuppr
 
+The purpose of this fork is to modify the original program to work with non-huminoid models.
+
 VTuber software made with Godot.
 
 Godot 4 rewrite in progress.
